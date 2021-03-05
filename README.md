@@ -1,0 +1,2 @@
+# TemperatureHumidityClock
+基于Tuya和ESP8266的温湿度时钟，带有0.96OLED屏幕及WS2812B灯珠用于显示时间、温湿度等信息

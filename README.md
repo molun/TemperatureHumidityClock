@@ -3,3 +3,5 @@
 
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
 For more information, please check Tuya Developer Website.
+
+立创开源硬件平台项目地址：https://oshwhub.com/molun/tu-ya-zhi-neng-wen-shi-du-ji
